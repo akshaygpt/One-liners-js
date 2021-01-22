@@ -1,2 +1,2 @@
 # One-liners-js
-Solving js problems in 1 line
+Solving problems using concise javascript syntax. Readability is not a priority.
