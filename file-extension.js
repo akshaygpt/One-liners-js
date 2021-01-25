@@ -7,4 +7,4 @@
   
 */
 
-const getFileExtension(s) => s.slice(s.lastIndexOf('.'));
+const fn = (s) => s.slice(s.lastIndexOf('.'));
