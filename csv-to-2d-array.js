@@ -8,4 +8,4 @@
 
 */
 
-const extractCsvToArray = (csv) => csv.trim().split("\n").map((row) => row.split(","));
+const fn = (csv) => csv.trim().split("\n").map((row) => row.split(","));
