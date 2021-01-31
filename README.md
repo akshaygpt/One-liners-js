@@ -3,3 +3,6 @@ My attempts to solve coding problems using concise javascript syntax. Readabilit
 
 ## Inspiration
 Old but gold [1-liners](https://github.com/1-liners/1-liners)
+
+## Other references
+- [1loc](https://github.com/phuoc-ng/1loc)
